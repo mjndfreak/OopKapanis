@@ -1,0 +1,14 @@
+/Users/cagdasergenc/RiderProjects/OopKapanis/OopKapanis/bin/Debug/net8.0/OopKapanis
+/Users/cagdasergenc/RiderProjects/OopKapanis/OopKapanis/bin/Debug/net8.0/OopKapanis.deps.json
+/Users/cagdasergenc/RiderProjects/OopKapanis/OopKapanis/bin/Debug/net8.0/OopKapanis.runtimeconfig.json
+/Users/cagdasergenc/RiderProjects/OopKapanis/OopKapanis/bin/Debug/net8.0/OopKapanis.dll
+/Users/cagdasergenc/RiderProjects/OopKapanis/OopKapanis/bin/Debug/net8.0/OopKapanis.pdb
+/Users/cagdasergenc/RiderProjects/OopKapanis/OopKapanis/obj/Debug/net8.0/OopKapanis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagdasergenc/RiderProjects/OopKapanis/OopKapanis/obj/Debug/net8.0/OopKapanis.AssemblyInfoInputs.cache
+/Users/cagdasergenc/RiderProjects/OopKapanis/OopKapanis/obj/Debug/net8.0/OopKapanis.AssemblyInfo.cs
+/Users/cagdasergenc/RiderProjects/OopKapanis/OopKapanis/obj/Debug/net8.0/OopKapanis.csproj.CoreCompileInputs.cache
+/Users/cagdasergenc/RiderProjects/OopKapanis/OopKapanis/obj/Debug/net8.0/OopKapanis.dll
+/Users/cagdasergenc/RiderProjects/OopKapanis/OopKapanis/obj/Debug/net8.0/refint/OopKapanis.dll
+/Users/cagdasergenc/RiderProjects/OopKapanis/OopKapanis/obj/Debug/net8.0/OopKapanis.pdb
+/Users/cagdasergenc/RiderProjects/OopKapanis/OopKapanis/obj/Debug/net8.0/OopKapanis.genruntimeconfig.cache
+/Users/cagdasergenc/RiderProjects/OopKapanis/OopKapanis/obj/Debug/net8.0/ref/OopKapanis.dll
